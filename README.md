@@ -1,89 +1,122 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Meriem+%F0%9F%91%8B;RPA+%26+Autonomous+Agent+Engineer;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Automation" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5NzZ5Z3A0d3V5M290Ynd0Z3F6M3V2bXN6Nm93bWNnd3Z0bWZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Cute Coding Girl GIF" />
+  
+  <h1>🌸 Coucou! I'm Meriem ZORQANY 🎀</h1>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=RPA+and+AI+AUTOMATION+ENGINEER;Passionate+about+AI+and+ML;Building+smart+autonomous+systems" alt="Typing Effect" />
+  </p>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1500x500_mocha.png" width="100%" alt="Banner" style="border-radius: 10px;" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>✨ RPA & Autonomous Agent Engineer ✨</h3>
-  <p>📍 Casablanca, Morocco</p>
-</div>
-
----
-
-### 👩‍💻 About Me
-
-I am an **AI, Machine Learning, and RPA Engineer** passionate about building intelligent systems and autonomous agents. My work focuses on bridging the gap between cognitive AI capabilities and seamless workflow automation to create scalable, end-to-end intelligent solutions. 
-
-* 🧠 **Core Focus:** Deep Learning, NLP, and Autonomous Agent Frameworks.
-* ⚙️ **Automation Expertise:** End-to-end RPA workflow design, lifecycle monitoring, and optimization.
-* 🚀 **Mission:** Transforming complex operational bottlenecks into streamlined, intelligent digital processes.
-
----
-
-### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-7B2CBF?style=for-the-badge&logoColor=white" alt="AI & ML" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <br />
-
-  <img src="https://img.shields.io/badge/RPA%20Tools-9D4EDD?style=for-the-badge&logoColor=white" alt="RPA Tools" />
-  <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white" alt="UiPath" />
-  <br />
-
-  <img src="https://img.shields.io/badge/Data%20%26%20Databases-C77DFF?style=for-the-badge&logoColor=white" alt="Data & DB" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://komarev.com/ghpvc/?username=MeriemZq&label=PROFILE+VIEWS+%F0%9F%92%95&color=ffb6c1&style=flat-square" alt="Views" />
 </p>
 
 ---
 
-### 🚀 Key Projects & Experience
+## 🔮 About Me ✨
 
-* **RPA Application Monitoring System**
-  * Designed and deployed a robust monitoring infrastructure to track, audit, and optimize active robotic process automation workflows, ensuring high availability and fault tolerance.
-* **Emergency ChatBot**
-  * Developed a responsive, NLP-powered conversational agent using **Flask** and custom text-processing pipelines to handle urgent user queries and streamline emergency information routing.
-* **CNN Digit Recognition**
-  * Implemented and trained a Convolutional Neural Network (CNN) on the MNIST dataset, optimizing hyperparameters to achieve high-accuracy handwritten digit classification.
-* **Real Estate Price Prediction**
-  * Engineered a predictive data pipeline using advanced regression models to estimate property values based on multi-variable demographic and structural market datasets.
-* **Professional Internships**
-  * Gained hands-on industry experience collaborating with cross-functional teams to analyze business requirements, build automation scripts, and integrate data-driven engineering practices.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MeriemZq&show_icons=true&theme=buefy&count_private=true&title_color=F72585&icon_color=7209B7&bg_color=0d1117&hide_border=true" alt="Meriem's GitHub Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeriemZq&layout=compact&theme=buefy&title_color=F72585&icon_color=7209B7&bg_color=0d1117&hide_border=true" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeriemZq&theme=buefy&background=0d1117&ring=F72585&fire=7209B7&currStreakNum=F72585&sideLabels=F72585&hide_border=true" alt="GitHub Streak" />
-</div>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>🧠 I'm a passionate <b>RPA and AI Automation Engineer</b> who loves building smart, autonomous systems and diving deep into Machine Learning architectures.</p>
+      <p>🌱 Constantly exploring new horizons in CNNs, intelligent data pipelines, and workflow optimizations.</p>
+      <p>💞 <b>My Philosophy:</b> Why do it manually when you can automate it beautifully with Python and AI?</p>
+      <p>🎯 <b>Current Focus:</b> Creating seamless integrations between deep learning models and enterprise RPA tools.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bWR4b3p0NXA0cmJnbndnbTZ6cjZ4am55bGd3NDNndG54N3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" alt="Aesthetic Coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 Soft Skills & Strengths
+## 🛠️ My Pastel Tech Toolkit 🌸
 
-```text
-🎨 Creativity     | 🤝 Teamwork & Collaboration
-📅 Organization   | 🔄 High Adaptability
+<details open>
+<summary><b>🧠 Machine Learning & Deep Learning</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-FFC0CB?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN_Models-FFB6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Regression_%26_Classification-FFC0CB?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ RPA & Automation</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/UiPath-FF69B4?style=flat-square&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-FFB6C1?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Anywhere-FFC0CB?style=flat-square&logo=automationanywhere&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Programmation & Core Code</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_/_JEE-FFB6C1?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Language-FFC0CB?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FF69B4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FFB6C1?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Analyse de Données</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-FF69B4?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-FFB6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FF69B4?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Bases de Données</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-FFC0CB?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL_/_SQL-FF69B4?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>📐 Modélisation Processus</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/UML-FFC0CB?style=flat-square" />
+  <img src="https://img.shields.io/badge/BPMN-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Merise-FFB6C1?style=flat-square" />
+</p>
+</details>
+
+---
+
+## 📈 My Coding Journey ✨
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=buefy&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" alt="Meriem's GitHub Stats" />
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/type=waving&color=ffb6c1&height=120&section=footer&text=Automating%20The%20Future%20✨&fontSize=20&fontColor=ffffff" width="100%" alt="Footer Wave" />
+</p>
+---
+
+## 🎀 Let's Stay Connected! 💕
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
