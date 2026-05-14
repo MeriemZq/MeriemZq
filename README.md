@@ -1,175 +1,118 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0010,100:0d0d0d&height=200&section=header&text=MERIEM%20ZORQANY&fontSize=52&fontColor=ff69b4&animation=fadeIn&fontAlignY=55&desc=RPA%20%26%20Autonomous%20Agent%20Engineer&descSize=18&descAlignY=75&descAlign=50)
-
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5NzZ5Z3A0d3V5M290Ynd0Z3F6M3V2bXN6Nm93bWNnd3Z0bWZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Cute Coding Girl GIF" />
+  
+  <h1>🌸 Coucou! I'm Meriem ZORQANY 🎀</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=800&color=FF85C1&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%E2%96%BA+Designing+self-healing+RPA+pipelines+...;%E2%96%BA+Orchestrating+multi-agent+architectures+...;%E2%96%BA+Connecting+LLMs+to+enterprise+workflows+...;%E2%96%BA+Eliminating+manual+tasks%2C+one+bot+at+a+time+..." />
-
-<br/>
-
-![](https://img.shields.io/badge/%E2%97%8F%20STATUS-SYSTEM%20ONLINE-ff69b4?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/%E2%97%8F%20ROLE-RPA%20%26%20AGENT%20ENGINEER-ffb6c1?style=flat-square&labelColor=0a0a0a)
-[![](https://komarev.com/ghpvc/?username=MeriemZq&label=%E2%97%8F%20PROFILE%20HITS&color=ff85c1&style=flat-square&labelColor=0a0a0a)](https://github.com/MeriemZq)
-
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=RPA+and+AI+AUTOMATION+ENGINEER;Passionate+about+AI+and+ML;Building+smart+autonomous+systems" alt="Typing Effect" />
+  </p>
 </div>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeriemZq&label=PROFILE+VIEWS+%F0%9F%92%95&color=ffb6c1&style=flat-square" alt="Views" />
+</p>
 
 ---
 
-## &nbsp; `// WHO_AM_I`
+## 🔮 About Me ✨
 
-<table>
-<tr>
-<td width="55%">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5NzZ5Z3A0d3V5M290Ynd0Z3F6M3V2bXN6Nm93bWNnd3Z0bWZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
-
-</td>
-<td width="45%" valign="top">
-
-```yaml
-name:     Meriem ZORQANY
-title:    RPA & Autonomous Agent Engineer
-location: 🌍 Building smart pipelines
-status:   🟢 Open to collabs
-
-focus:
-  - Multi-agent architectures
-  - LLM + RPA hybrid systems
-  - Prompt engineering
-  - Workflow optimization
-  - CNN + deep learning backends
-
-philosophy: >
-  Every manual task is a bug.
-  Automation is the patch.
-```
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>🧠 I'm a passionate <b>RPA and AI Automation Engineer</b> who loves building smart, autonomous systems and diving deep into Machine Learning architectures.</p>
+      <p>🌱 Constantly exploring new horizons in CNNs, intelligent data pipelines, and workflow optimizations.</p>
+      <p>💞 <b>My Philosophy:</b> Why do it manually when you can automate it beautifully with Python and AI?</p>
+      <p>🎯 <b>Current Focus:</b> Creating seamless integrations between deep learning models and enterprise RPA tools.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bWR4b3p0NXA0cmJnbndnbTZ6cjZ4am55bGd3NDNndG54N3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" alt="Aesthetic Coding" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## &nbsp; `// CORE_LOGIC.py`
+## 🛠️ My Pastel Tech Toolkit 🌸
 
-```python
-# ─────────────────────────────────────────────────────────
-#  Meriem's engineering loop — runs 24/7
-# ─────────────────────────────────────────────────────────
+<details open>
+<summary><b>🧠 Machine Learning & Deep Learning</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-FFC0CB?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN_Models-FFB6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Regression_%26_Classification-FFC0CB?style=flat-square" />
+</p>
+</details>
 
-while system_is_running:
+<details open>
+<summary><b>⚙️ RPA & Automation</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/UiPath-FF69B4?style=flat-square&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-FFB6C1?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Anywhere-FFC0CB?style=flat-square&logo=automationanywhere&logoColor=white" />
+</p>
+</details>
 
-    task = scan_environment()
+<details open>
+<summary><b>💻 Programmation & Core Code</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_/_JEE-FFB6C1?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Language-FFC0CB?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FF69B4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FFB6C1?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
+</details>
 
-    if task.is_manual or task.is_repetitive:
+<details open>
+<summary><b>📊 Analyse de Données</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-FF69B4?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-FFB6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FF69B4?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+</details>
 
-        agent = spawn_autonomous_agent(
-            llm      = "orchestrated_backbone",
-            tools    = ["UiPath", "LangChain", "CrewAI"],
-            memory   = vector_store,
-            goal     = "eliminate_bottleneck"
-        )
+<details open>
+<summary><b>🗄️ Bases de Données</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-FFC0CB?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL_/_SQL-FF69B4?style=flat-square" />
+</p>
+</details>
 
-        pipeline = build_rpa_pipeline(
-            trigger  = agent.decision,
-            executor = enterprise_bot,
-            fallback = self_healing_logic
-        )
-
-        pipeline.deploy()  # 🚀
-
-    else:
-        continue  # already automated ✓
-
-# ─────────────────────────────────────────────────────────
-```
-
----
-
-## &nbsp; `// TECH_ARSENAL`
-
-<div align="center">
-
-**`— RPA & AGENT LAYER —`**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" title="Python"/>
-&nbsp;
-<img src="https://img.shields.io/badge/UiPath-FF69B4?style=for-the-badge&logo=uipath&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/Power%20Automate-FFB6C1?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/Automation%20Anywhere-FFC0CB?style=for-the-badge&logo=automationanywhere&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/LangChain-FF69B4?style=for-the-badge&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/CrewAI-FFB6C1?style=for-the-badge&logoColor=white&labelColor=0a0a0a" height="30"/>
-
-<br/><br/>
-
-**`— ML & DEEP LEARNING —`**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Keras-FF69B4?style=for-the-badge&logo=keras&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-FFB6C1?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/CNN%20Models-FFC0CB?style=for-the-badge&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/LLM%20Orchestration-FF69B4?style=for-the-badge&logoColor=white&labelColor=0a0a0a" height="30"/>
-
-<br/><br/>
-
-**`— LANGUAGES & CODE —`**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,php,matlab&theme=dark" height="40"/>
-
-<br/><br/>
-
-**`— DATA & ARCHITECTURE —`**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="40"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-FF69B4?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/NumPy-FFC0CB?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/Oracle-FF69B4?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0a0a0a" height="30"/>
-<img src="https://img.shields.io/badge/BPMN%20%2F%20UML-FFB6C1?style=for-the-badge&logoColor=white&labelColor=0a0a0a" height="30"/>
-
-</div>
+<details open>
+<summary><b>📐 Modélisation Processus</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/UML-FFC0CB?style=flat-square" />
+  <img src="https://img.shields.io/badge/BPMN-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Merise-FFB6C1?style=flat-square" />
+</p>
+</details>
 
 ---
+## 📈 My Coding Journey ✨
 
-## &nbsp; `// SYSTEM_METRICS`
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=buefy&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" alt="Meriem's GitHub Stats" />
+</p>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff85c1&text_color=e0e0e0&bg_color=0a0a0a&border_color=ff69b4&border_radius=8" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MeriemZq&layout=compact&theme=radical&title_color=ff69b4&text_color=e0e0e0&bg_color=0a0a0a&border_color=ff69b4&border_radius=8&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeriemZq&bg_color=0a0a0a&color=ff85c1&line=ff69b4&point=ffffff&area=true&area_color=ff69b420&hide_border=false&border_color=ff69b4&radius=8" width="95%" />
-
-</div>
-
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer&text=Automating%20The%20Future%20✨&fontSize=20&fontColor=ffffff)
 ---
+## 🎀 Let's Stay Connected! 💕
 
-## &nbsp; `// SIGNAL_TRANSMISSION`
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bWR4b3p0NXA0cmJnbndnbTZ6cjZ4am55bGd3NDNndG54N3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="130px" /><br/>
-
-```
-TRANSMISSION TARGET  →  Meriem ZORQANY
-PROTOCOL             →  LinkedIn
-AVAILABLE FOR        →  RPA projects · Agent systems · Collaborations
-```
-
-<br/>
-
-<a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
-  <img src="https://img.shields.io/badge/%E2%96%BA%20CONNECT%20ON%20LINKEDIN-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
-</a>
-
-</div>
-
-<br/>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:2b0018,100:ff69b420&height=130&section=footer&text=automate+%2F%2F+orchestrate+%2F%2F+deploy&fontSize=16&fontColor=ffb6c1&fontAlignY=70&animation=twinkling)
+<p align="left">
+  <a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
