@@ -1,191 +1,50 @@
-<!-- =========================================
-✨ PREMIUM GITHUB PROFILE README - CYBER AI STYLE
-========================================= -->
-
 <div align="center">
 
-<!-- 🎆 HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=280&section=header&text=Meri%20%7C%20AI%20%26%20Automation%20Engineer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/image?type=waving&color=1a103c&customColorList=12&height=220&section=header&text=MERIEM%20ZORQANY&fontSize=42&fontColor=b388ff&fontAlignY=45&animation=twinkling" width="100%" alt="Meriem Zorqany Banner" />
 
-<!-- ✨ TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;RPA+Developer+%7C+Automation+Specialist;Deep+Learning+%7C+NLP+%7C+Data+Engineering;Building+Intelligent+Autonomous+Systems" />
-
-<!-- 🌌 BADGES -->
-<p>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Automation-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RPA-Expert-00D4FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Enabled-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Continuously%20Learning-9D4EDD?style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
-## 🧠 About Me
-
-💡 Engineering student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Intelligent Automation (RPA)**.  
-🚀 I focus on transforming manual workflows into **autonomous, intelligent systems** that enhance efficiency and decision-making.  
-⚙️ Strong interest in building scalable AI-powered solutions combining **data, automation, and intelligent agents**.
-
----
-
-## 🎯 Core Expertise
-
-- 🤖 Intelligent Automation & RPA
-- 🧠 Artificial Intelligence & Machine Learning
-- 🔍 Deep Learning & Neural Networks
-- 💬 NLP & Language Models
-- 📊 Data Engineering & Analytics
-- ⚙️ Business Process Optimization
-- 🧩 System Modeling (UML, BPMN)
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,php,matlab,sql" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flask,tensorflow,pytorch" />
-</p>
-
-- Scikit-learn, Keras, Pandas, NumPy  
-- Seaborn, Matplotlib, OpenCV  
-
----
-
-### 🤖 Automation & RPA
-- UiPath  
-- Power Automate  
-- Automation Anywhere  
-
----
-
-### 🧠 AI / ML Stack
-- Supervised & Unsupervised Learning  
-- CNN / Deep Neural Networks  
-- NLP (Text Processing, Chatbots)  
-- Model Training & Evaluation  
-
----
-
-### 🗄️ Databases
-- MySQL  
-- Oracle  
-- PL/SQL  
-- phpMyAdmin  
-
----
-
-### 📊 Data & BI
-- Power BI  
-- DAX  
-- Excel Advanced Analytics  
-
----
-
-### ☁️ Dev & Systems
-- Linux / Ubuntu  
-- Windows  
-- Docker (basic understanding)  
-- UML / BPMN / Merise  
-
----
-
-## 🎓 Education
-
-🎓 **Engineering Degree – Computer Science**  
-🏫 National School of Applied Sciences (ENSA Berrechid)  
-📅 2022 – 2025  
-
-🎓 **DUT – Computer Engineering**  
-🏫 ENSA Berrechid  
-📅 2020 – 2022  
-
-🎓 **Baccalaureate – Mathematical Sciences (French Option)**  
-🏫 Lycée Abdelkhalek Toress  
-📅 2019 – 2020  
-
----
-
-## 🌐 Languages
-
-- 🇲🇦 Arabic — Native  
-- 🇬🇧 English — Very Good  
-- 🇫🇷 French — Good  
-
----
-
-## 📜 Certifications
-
-- 🤖 Automation Anywhere RPA Essentials  
-- 📊 Supervised Machine Learning (Regression & Classification) – Stanford / DeepLearning.AI  
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-
----
-
-## 🎯 Current Focus
-
-- Building AI-powered automation systems  
-- Enhancing RPA with Machine Learning  
-- Developing intelligent chatbots  
-- Exploring autonomous AI agents  
-- Strengthening Data Engineering skills  
-
----
-
-## 💬 Quote
-
-> “The future belongs to those who automate intelligence, not just tasks.”
-
----
-
-## 🤝 Connect With Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=d1c4e9&center=true&vCenter=true&width=500&lines=RPA+%26+Autonomous+Agent+Engineer;Intelligent+Automation+Architect;AI+%26+Machine+Learning+Developer" alt="Typing Effect" />
+</a>
 
 <p align="center">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6B6B?style=for-the-badge&logo=gmail"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <code><strong>AI • RPA • Machine Learning • Intelligent Automation</strong></code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Casablanca,%20Morocco-7b1fa2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Theme-Deep%20Purple%20%7C%20Cyber-120024?style=flat-square" alt="Theme">
 </p>
 
 ---
 
-## 🌌 Footer
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer"/>
-
-✨ *Built with passion for AI, automation, and intelligent systems* ✨
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>✨ Beyond the Code</h3>
+      <p>I am a Computer Science Engineering student dedicated to bridging the gap between traditional software development and cognitive automation. My expertise lies in architecting intelligent automation systems, deploying machine learning frameworks, and designing autonomous agents that streamline complex workflows.</p>
+      <p>Driven by efficiency and precision, I leverage modern RPA suites and predictive models to transform raw data into actionable enterprise intelligence.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzY2Fsd3p5N3N0Znd6YXA5M2w4cml1MnI2ZHZtNms5M3B3bmw2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160px" alt="AI Tech Animation">
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
+
+### 🎓 Education
+
+```text
+▼ 2022 — 2025
+  École Nationale des Sciences Appliquées Berrechid
+  ┗━► Cycle d’ingénieur en Génie Informatique
+
+▼ 2020 — 2022
+  Diplôme Universitaire de Technologie (DUT)
+  ┗━► Génie Informatique
+
+▼ 2019 — 2020
+  Baccalauréat
+  ┗━► Sciences Mathématiques
