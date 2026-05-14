@@ -1,131 +1,137 @@
 <div align="center">
 
-# Meriem Zorqany
+<img src="https://capsule-render.vercel.app/view?type=waving&color=9d4edd&height=280&section=header&text=Meriem%20Zorqany&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Meriem Zorqany Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=F1A7FF&center=true&vCenter=true&width=500&lines=RPA+%26+Autonomous+Agent+Engineer;Intelligent+Automation+Architect;Machine+Learning+Developer" alt="Typing SVG" />
-
-<br />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=D6A2E8&center=true&vCenter=true&width=500&lines=RPA+%26+Autonomous+Agent+Engineer;Intelligent+Automation+Architect;AI+%2F+ML+Developer" alt="Typing SVG" /></a>
 
 ### Hello, I'm Meriem 👋
-Building intelligent automation systems with AI, RPA, and machine learning.
 
-<br />
+<p align="center">
+  <strong>I design intelligent automation systems using RPA, AI, and machine learning.</strong>
+</p>
 
-<table>
+---
+
+<table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
     <td width="55%" valign="top">
-      <p>I am a software engineer specializing in the intersection of <strong>RPA and Artificial Intelligence</strong>. I design and build end-to-end intelligent systems, optimize enterprise workflows, and build predictive machine learning pipelines.</p>
-      <p>Based in <strong>Casablanca, Morocco</strong>, I focus on turning complex operational bottlenecks into sleek, autonomous, and scalable digital solutions.</p>
-      <p>🌱 Current focus: Generative AI Agents & Advanced Cognitive Automation.</p>
+      <h3>🌸 About Me</h3>
+      <blockquote>
+        I am a software engineer specialized in RPA and AI automation, dedicated to building intelligent systems, ML models, and autonomous workflows. Based in Casablanca, Morocco, I focus on turning manual business processes into smart, highly optimized automation pipelines.
+      </blockquote>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3Z0Y2g1cXN5Y29wN3p6cm93N2Y0M3BtYm90N2N5OHp4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Aesthetic GIF" style="border-radius: 8px; filter: drop-shadow(0px 4px 8px rgba(241, 167, 255, 0.2));"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmN5MXZ0bWR2MXN4ZnU5Y3ZpZGRndjZtbzJidmsxN3B5b3Q2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="Aesthetic Coding GIF" />
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
 ## 🧠 Tech Stack
 
-<div align="center">
+<img src="https://img.shields.io/badge/🤖%20RPA%20%26%20Automation-E8D7F1?style=flat-square" alt="RPA Section" />
+<p>
+  <img src="https://img.shields.io/badge/Power_Automate-742774?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Anywhere-00A3E0?style=for-the-badge&logo=automation-anywhere&logoColor=white" />
+</p>
 
-### 🤖 Robotic Process Automation (RPA)
-![](https://img.shields.io/badge/Power_Automate-F1A7FF?style=for-the-badge&logo=power-automate&logoColor=201A24)
-![](https://img.shields.io/badge/UiPath-F1A7FF?style=for-the-badge&logo=uipath&logoColor=201A24)
-![](https://img.shields.io/badge/Automation_Anywhere-F1A7FF?style=for-the-badge&logo=automation-anywhere&logoColor=201A24)
+<img src="https://img.shields.io/badge/🧠%20AI%20%2F%20ML-F4D35E?style=flat-square" alt="AI/ML Section" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-### 🔮 Artificial Intelligence & Machine Learning
-![](https://img.shields.io/badge/Python-E0B0FF?style=for-the-badge&logo=python&logoColor=201A24)
-![](https://img.shields.io/badge/Scikit_Learn-E0B0FF?style=for-the-badge&logo=scikit-learn&logoColor=201A24)
-![](https://img.shields.io/badge/TensorFlow-E0B0FF?style=for-the-badge&logo=tensorflow&logoColor=201A24)
-![](https://img.shields.io/badge/Keras-E0B0FF?style=for-the-badge&logo=keras&logoColor=201A24)
-![](https://img.shields.io/badge/PyTorch-E0B0FF?style=for-the-badge&logo=pytorch&logoColor=201A24)
+<img src="https://img.shields.io/badge/📊%20Data-E19696?style=flat-square" alt="Data Section" />
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+</p>
 
-### 📊 Data Analytics & Engineering
-![](https://img.shields.io/badge/Pandas-F1A7FF?style=for-the-badge&logo=pandas&logoColor=201A24)
-![](https://img.shields.io/badge/NumPy-F1A7FF?style=for-the-badge&logo=numpy&logoColor=201A24)
-![](https://img.shields.io/badge/Power_BI-F1A7FF?style=for-the-badge&logo=power-bi&logoColor=201A24)
-![](https://img.shields.io/badge/DAX-F1A7FF?style=for-the-badge&logo=analytics&logoColor=201A24)
+<img src="https://img.shields.io/badge/⚙️%20Backend-B8C0FF?style=flat-square" alt="Backend Section" />
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-### ⚙️ Backend & Architecture
-![](https://img.shields.io/badge/Flask-E0B0FF?style=for-the-badge&logo=flask&logoColor=201A24)
-![](https://img.shields.io/badge/Java-E0B0FF?style=for-the-badge&logo=openjdk&logoColor=201A24)
-![](https://img.shields.io/badge/C-E0B0FF?style=for-the-badge&logo=c&logoColor=201A24)
-![](https://img.shields.io/badge/PHP-E0B0FF?style=for-the-badge&logo=php&logoColor=201A24)
-
-### 💾 Databases & Modeling
-![](https://img.shields.io/badge/MySQL-F1A7FF?style=for-the-badge&logo=mysql&logoColor=201A24)
-![](https://img.shields.io/badge/Oracle-F1A7FF?style=for-the-badge&logo=oracle&logoColor=201A24)
-![](https://img.shields.io/badge/PL/SQL-F1A7FF?style=for-the-badge&logo=sqlite&logoColor=201A24)
-![](https://img.shields.io/badge/UML-F1A7FF?style=for-the-badge&logo=diagrams.net&logoColor=201A24)
-![](https://img.shields.io/badge/BPMN-F1A7FF?style=for-the-badge&logo=camunda&logoColor=201A24)
-
-</div>
+<img src="https://img.shields.io/badge/🗄️%20Databases%20%26%20📐%20Modeling-C8B6FF?style=flat-square" alt="Databases and Modeling Section" />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=unified-modeling-language&logoColor=white" />
+  <img src="https://img.shields.io/badge/BPMN-E30613?style=for-the-badge&logo=camunda&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-> ### 🛠️ Application Monitoring System (RPA + AI)
-> * An autonomous supervisor bot that continuously scans application runtimes every few minutes.
-> * Logs precise error vectors and utilizes a predictive machine learning model to anticipate application failure points before they trigger downtime.
-> * **Tech Stack:** `UiPath` • `Python` • `Scikit-learn` • `SQL`
+<table>
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>🔮 Intelligent App Monitoring</h4>
+      <p>An automated RPA + AI solution that monitors applications at regular intervals, logs runtime anomalies, and leverages predictive ML models to forecast potential system failures before they occur.</p>
+      <br />
+      <sub><b>Tech Stack:</b> UiPath, Python, Scikit-learn</sub>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🚨 Emergency Chatbot</h4>
+      <p>A high-availability natural language processing (NLP) conversational agent engineered for critical case handling, providing rapid, context-aware triage and response protocols.</p>
+      <br />
+      <sub><b>Tech Stack:</b> Flask, NLP, Python, MySQL</sub>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🔢 CNN Digit Recognition</h4>
+      <p>A deep learning implementation using the MNIST dataset to classify handwritten digits with high accuracy, featuring optimized convolutional neural network architectures.</p>
+      <br />
+      <sub><b>Tech Stack:</b> TensorFlow, Keras, NumPy</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-> ### 💬 Emergency Chatbot (NLP)
-> * A production-ready NLP conversational interface tailored for high-stakes, time-critical enterprise scenarios.
-> * Implements optimized intent classification to route emergencies with sub-second response times.
-> * **Tech Stack:** `Flask` • `Python` • `NLTK` • `JSON API`
+## 💎 Professional Strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Teamwork-⚡?style=for-the-badge&color=E8D7F1&logoColor=purple" /> 
+  <img src="https://img.shields.io/badge/✨%20Adaptability-⚡?style=for-the-badge&color=D6A2E8&logoColor=purple" /> 
+  <img src="https://img.shields.io/badge/✨%20Organization-⚡?style=for-the-badge&color=B8C0FF&logoColor=purple" /> 
+  <img src="https://img.shields.io/badge/✨%20Creativity-⚡?style=for-the-badge&color=C8B6FF&logoColor=purple" />
+</p>
 
 ---
 
-> ### 🧠 CNN Digit Recognition (MNIST)
-> * Deep learning implementation focused on computer vision fundamentals, achieving high accuracy in handwritten digit classification.
-> * Features optimized layer architectures to prevent overfitting while minimizing training computational latency.
-> * **Tech Stack:** `TensorFlow` • `Keras` • `NumPy` • `Python`
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meriem-zorqany&show_icons=true&theme=calm&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=f5e0dc&border_color=b4befe" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriem-zorqany&layout=compact&theme=calm&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=b4befe" height="150" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=meriem-zorqany&theme=calm&background=1e1e2e&title=cba6f7&text=cdd6f4&stroke=b4befe&ring=f5e0dc" height="150" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 Git Insights
+## 📬 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:zorqanymeriem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-🚀 **Engineering Metrics & Activity**
-
-<img src="https://github-readme-stats.vercel.app/api?username=meriemzorqany&show_icons=true&theme=gotham&bg_color=1e1e2e&title_color=f1a7ff&icon_color=f1a7ff&text_color=cdd6f4&border_color=f1a7ff" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemzorqany&layout=compact&theme=gotham&bg_color=1e1e2e&title_color=e0b0ff&icon_color=e0b0ff&text_color=cdd6f4&border_color=e0b0ff" alt="Top Languages" height="180" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com/?user=meriemzorqany&theme=gotham&background=1e1e2e&fire=f1a7ff&ring=e0b0ff&currStreakLabel=f1a7ff&border=e0b0ff" alt="GitHub Streak" width="85%" />
+<img src="https://capsule-render.vercel.app/view?type=waving&color=9d4edd&height=80&section=footer" width="100%" alt="Footer Decor" />
 
 </div>
-
----
-
-## 💡 Professional Soft Skills
-
-<div align="center">
-
-| 🤝 Teamwork | 🌊 Adaptability | 📅 Organization | 🎨 Creativity |
-| :---: | :---: | :---: | :---: |
-| Fostering cross-functional collaboration to hit milestones. | Rapidly pivoting to new tech stacks and methodologies. | Architecting clean documentation and structured workflows. | Designing novel solutions for complex enterprise bottlenecks. |
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-Feel free to reach out for collaborations, agent development discussions, or professional consulting!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriem_Zorqany-E0B0FF?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://www.linkedin.com/in/meriem-zorqany)
-[![Email](https://img.shields.io/badge/Email-zorqanymeriem%40gmail.com-F1A7FF?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:zorqanymeriem@gmail.com)
-
-<br />
