@@ -1,122 +1,194 @@
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username in all stats URLs -->
+
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5NzZ5Z3A0d3V5M290Ynd0Z3F6M3V2bXN6Nm93bWNnd3Z0bWZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Cute Coding Girl GIF" />
-  
-  <h1>🌸 Coucou! I'm Meriem ZORQANY 🎀</h1>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=RPA+and+AI+AUTOMATION+ENGINEER;Passionate+about+AI+and+ML;Building+smart+autonomous+systems" alt="Typing Effect" />
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=900&color=F5B7FF&center=true&vCenter=true&width=700&lines=RPA+%26+Autonomous+Agent+Engineer" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-0D1117?style=for-the-badge&logo=github&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Casablanca%2C%20Morocco-0D1117?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/RPA%20%7C%20AI%20Automation-0D1117?style=for-the-badge&logo=openai&logoColor=F9A8D4" />
+
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MeriemZq&label=PROFILE+VIEWS+%F0%9F%92%95&color=ffb6c1&style=flat-square" alt="Views" />
-</p>
 
 ---
 
-## 🔮 About Me ✨
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>🧠 I'm a passionate <b>RPA and AI Automation Engineer</b> who loves building smart, autonomous systems and diving deep into Machine Learning architectures.</p>
-      <p>🌱 Constantly exploring new horizons in CNNs, intelligent data pipelines, and workflow optimizations.</p>
-      <p>💞 <b>My Philosophy:</b> Why do it manually when you can automate it beautifully with Python and AI?</p>
-      <p>🎯 <b>Current Focus:</b> Creating seamless integrations between deep learning models and enterprise RPA tools.</p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bWR4b3p0NXA0cmJnbndnbTZ6cjZ4am55bGd3NDNndG54N3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" alt="Aesthetic Coding" />
-    </td>
-  </tr>
+## ✦ Hello, I'm Meriem Zorqany
+
+Software Engineer specialized in **RPA** and **AI-driven automation**, passionate about building smart systems that automate workflows, improve decision-making, and scale intelligently.
+
+I work at the intersection of **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Intelligent Process Automation** to create predictive, efficient, and impactful solutions.
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Aesthetic coding gif" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ My Pastel Tech Toolkit 🌸
+## 🌙 About Me
 
-<details open>
-<summary><b>🧠 Machine Learning & Deep Learning</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-FFC0CB?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN_Models-FFB6C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Regression_%26_Classification-FFC0CB?style=flat-square" />
-</p>
-</details>
+I enjoy designing automation with purpose: not just to save time, but to make systems smarter, more reliable, and more human-friendly. My mindset combines **RPA precision**, **AI intelligence**, and a strong focus on **scalable problem-solving**.
 
-<details open>
-<summary><b>⚙️ RPA & Automation</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/UiPath-FF69B4?style=flat-square&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-FFB6C1?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation_Anywhere-FFC0CB?style=flat-square&logo=automationanywhere&logoColor=white" />
-</p>
-</details>
+<div align="center">
 
-<details open>
-<summary><b>💻 Programmation & Core Code</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_/_JEE-FFB6C1?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C_Language-FFC0CB?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-FF69B4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FFB6C1?style=flat-square&logo=mathworks&logoColor=white" />
-</p>
-</details>
+<img src="https://img.shields.io/badge/Focus-RPA%20%2B%20AI%20%2B%20Automation-151B23?style=flat-square&logo=githubactions&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Mindset-Smart%20%7C%20Scalable%20%7C%20Predictive-151B23?style=flat-square&logo=databricks&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Vibe-Clean%20Code%20%26%20Elegant%20Systems-151B23?style=flat-square&logo=visualstudiocode&logoColor=F9A8D4" />
 
-<details open>
-<summary><b>📊 Analyse de Données</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-FF69B4?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/DAX-FFB6C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-FF69B4?style=flat-square&logo=numpy&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Bases de Données</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-FFC0CB?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PL_/_SQL-FF69B4?style=flat-square" />
-</p>
-</details>
-
-<details open>
-<summary><b>📐 Modélisation Processus</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/UML-FFC0CB?style=flat-square" />
-  <img src="https://img.shields.io/badge/BPMN-FF69B4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Merise-FFB6C1?style=flat-square" />
-</p>
-</details>
+</div>
 
 ---
 
-## 📈 My Coding Journey ✨
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=buefy&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" alt="Meriem's GitHub Stats" />
-  
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/type=waving&color=ffb6c1&height=120&section=footer&text=Automating%20The%20Future%20✨&fontSize=20&fontColor=ffffff" width="100%" alt="Footer Wave" />
+### 🤖 RPA
+<p>
+  <img src="https://img.shields.io/badge/Power%20Automate-0D1117?style=for-the-badge&logo=powerautomate&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/UiPath-0D1117?style=for-the-badge&logo=uipath&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-0D1117?style=for-the-badge&logoColor=F9A8D4" />
 </p>
+
+### 🧠 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F59E0B" />
+  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=F97316" />
+  <img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=FB7185" />
+</p>
+
+### 💻 Programming
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=C084FC" />
+  <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=93C5FD" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=A78BFA" />
+</p>
+
+### 📊 Data
+<p>
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=F9A8D4" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/DAX-0D1117?style=for-the-badge&logoColor=C084FC" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=EF4444" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F9A8D4" />
+</p>
+
+### 🧩 Modeling
+<p>
+  <img src="https://img.shields.io/badge/UML-0D1117?style=for-the-badge&logoColor=93C5FD" />
+  <img src="https://img.shields.io/badge/BPMN-0D1117?style=for-the-badge&logoColor=C084FC" />
+</p>
+
 ---
 
-## 🎀 Let's Stay Connected! 💕
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📌 Application Monitoring Bot  
+**RPA + AI prediction**
+
+A smart monitoring solution designed to supervise application behavior, automate alerting tasks, and support predictive maintenance using AI-based insights.
+
+**Tech Stack**  
+`UiPath` `Python` `Machine Learning` `Power BI`
+
+</td>
+<td width="33%" valign="top">
+
+### 💬 Emergency Chatbot  
+**NLP + Flask**
+
+An intelligent chatbot built to handle emergency-oriented interactions, process user input with NLP techniques, and provide fast, structured responses.
+
+**Tech Stack**  
+`Python` `Flask` `NLP` `Machine Learning`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔢 CNN Digit Recognition  
+**MNIST**
+
+A deep learning project focused on handwritten digit classification using convolutional neural networks for accurate recognition on the MNIST dataset.
+
+**Tech Stack**  
+`Python` `TensorFlow` `Keras` `CNN`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5B7FF&icon_color=93C5FD&text_color=C9D1D9&ring_color=C084FC" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5B7FF&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=F9A8D4&currStreakLabel=93C5FD&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideNums=FFFFFF" />
+
+</div>
+
+---
+
+## 🌸 Soft Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Teamwork-151B23?style=for-the-badge&logo=handshake&logoColor=F9A8D4" />
+<img src="https://img.shields.io/badge/Adaptability-151B23?style=for-the-badge&logo=git&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Organization-151B23?style=for-the-badge&logo=notion&logoColor=C084FC" />
+<img src="https://img.shields.io/badge/Creativity-151B23?style=for-the-badge&logo=figma&logoColor=F5B7FF" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Meriem%20Zorqany-0D1117?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
+</a>
+
+<a href="mailto:zorqanymeriem@gmail.com">
+  <img src="https://img.shields.io/badge/Email-zorqanymeriem%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F9A8D4" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=C084FC&style=flat-square" />
+
+<br/>
+
+_Designing intelligent automation with elegance, logic, and impact._
+
+</div>
