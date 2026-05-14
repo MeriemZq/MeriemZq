@@ -107,9 +107,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=buefy&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" alt="Meriem's GitHub Stats" />
 </p>
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer&text=Automating%20The%20Future%20✨&fontSize=20&fontColor=ffffff)---
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer&text=Automating%20The%20Future%20✨&fontSize=20&fontColor=ffffff)
 ---
-
 ## 🎀 Let's Stay Connected! 💕
 
 <p align="left">
