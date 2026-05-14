@@ -1,219 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,30:2d1b69,60:c084fc,100:f0abfc&height=200&section=header&text=MERIEM%20ZORQANY&fontSize=52&fontColor=fdf4ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20RPA%20%26%20Autonomous%20Agent%20Architect&descSize=15&descAlignY=58&descColor=e9d5ff&animation=fadeIn" />
+# Meriem Zorqany
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=RPA+%26+Autonomous+Agent+Engineer;AI+%7C+Machine+Learning+%7C+Automation;Building+the+Future%2C+One+Bot+at+a+Time)](https://git.io/typing-svg)
+
+**Hello, I'm Meriem 👋**
+
+*Building intelligent automation systems with AI, RPA, and machine learning.*
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif" />
 
 </div>
 
-<br>
+---
 
-<div align="center">
+## 🌸 About Me
 
-# Hello, I'm Meriem 👋
+```python
+engineer = {
+    "name"      : "Meriem Zorqany",
+    "focus"     : ["RPA", "AI Automation", "Machine Learning"],
+    "location"  : "Casablanca, Morocco 🇲🇦",
+    "passion"   : "Designing intelligent systems that think, adapt, and scale.",
+    "currently" : "Building autonomous agents & process automation pipelines",
+}
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=RPA+%26+Autonomous+Agent+Engineer;AI+%26+Intelligent+Automation+Specialist;Machine+Learning+%7C+Deep+Learning;Building+the+Future%2C+One+Pipeline+at+a+Time)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" />
-
-</div>
-
-<br>
+> *Software engineer focused on the intersection of RPA, artificial intelligence, and process optimization — turning complex workflows into elegant automated solutions.*
 
 ---
 
-## ✦ About Me
-
-<br>
-
-> ```
-> ╔══════════════════════════════════════════════════════════════════╗
-> ║                                                                  ║
-> ║   Software Engineer specialized in RPA, AI & Intelligent        ║
-> ║   Automation — turning complex workflows into elegant,           ║
-> ║   self-operating systems.                                        ║
-> ║                                                                  ║
-> ║   ◈  Passionate about Machine Learning & Deep Learning          ║
-> ║   ◈  Building autonomous pipelines & AI-driven solutions        ║
-> ║   ◈  Bridging human intent with machine intelligence            ║
-> ║   ◈  Based in Casablanca, Morocco  🇲🇦                          ║
-> ║                                                                  ║
-> ╚══════════════════════════════════════════════════════════════════╝
-> ```
-
-<br>
-
----
-
-## ✦ Tech Stack
-
-<br>
+## 🛠️ Tech Stack
 
 ### 🤖 RPA & Automation
-
-<div align="center">
-
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6600?style=for-the-badge&logo=automationanywhere&logoColor=white)
-
-</div>
-
-<br>
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6C37?style=for-the-badge&logo=automationanywhere&logoColor=white)
 
 ### 🧠 AI / Machine Learning
-
-<div align="center">
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</div>
-
-<br>
-
-### 💻 Programming Languages
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-c084fc?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-a855f7?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-9333ea?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7e22ce?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
-<br>
+![Python](https://img.shields.io/badge/Python-C084FC?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E879F9?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D946EF?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-9333EA?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-C084FC?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-A855F7?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-E879F9?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-D946EF?style=for-the-badge&logo=microsoft&logoColor=white)
 
-<div align="center">
+### ⚙️ Backend & Languages
+![Flask](https://img.shields.io/badge/Flask-9333EA?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-C084FC?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A855F7?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-E879F9?style=for-the-badge&logo=php&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-e879f9?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-d946ef?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-a21caf?style=for-the-badge&logo=microsoft&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-C084FC?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-A855F7?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-D946EF?style=for-the-badge&logo=oracle&logoColor=white)
 
-</div>
-
-<br>
-
-### 🗄 Databases
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-67e8f9?style=for-the-badge&logo=mysql&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-22d3ee?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-06b6d4?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-<br>
+### 📐 Modeling
+![UML](https://img.shields.io/badge/UML-9333EA?style=for-the-badge&logo=diagram&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-C084FC?style=for-the-badge&logo=diagram&logoColor=white)
 
 ---
 
-## ✦ Featured Projects
+## 🚀 Featured Projects
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### 🖥️ Application Monitoring System
+*RPA + Predictive AI*
 
-### ◈ Application Monitoring Bot
+An intelligent bot that monitors applications at scheduled intervals, logs runtime errors, and uses ML to **predict potential failures** before they occur.
 
-</div>
+`Power Automate` `Python` `Scikit-learn` `Logging`
 
-> **`RPA + AI Prediction System`**
->
-> An intelligent bot that continuously monitors application health metrics and leverages predictive ML models to detect anomalies before they escalate — automating incident detection and response with minimal human intervention.
->
-> `UiPath` · `Python` · `Scikit-learn` · `Power Automate` · `MySQL`
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 🚨 Emergency Chatbot
+*NLP + Flask*
 
-<div align="center">
+A Flask-based conversational agent designed for **critical-response scenarios** — fast, intent-aware, and built for reliability under pressure.
 
-### ◈ Emergency Chatbot
+`Flask` `Python` `NLP` `REST API`
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-> **`NLP + Flask + AI Responses`**
->
-> A context-aware emergency response chatbot powered by Natural Language Processing, capable of understanding urgent user queries and delivering precise, AI-generated guidance through a lightweight Flask API backend.
->
-> `Python` · `Flask` · `NLP` · `TensorFlow` · `REST API`
+### 🔢 CNN Digit Recognition
+*Deep Learning · MNIST*
 
-<br>
+A convolutional neural network trained on the MNIST dataset achieving high accuracy on **handwritten digit classification**.
 
-<div align="center">
+`TensorFlow` `Keras` `CNN` `Python`
 
-### ◈ CNN Digit Recognition
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 💡 More Coming Soon...
+*Always building*
 
-> **`Deep Learning · MNIST`**
->
-> A Convolutional Neural Network trained on the MNIST dataset to classify handwritten digits with high accuracy — exploring deep learning fundamentals through architecture tuning, regularization, and performance benchmarking.
->
-> `Python` · `Keras` · `TensorFlow` · `NumPy` · `Matplotlib`
+New projects in autonomous agents, process intelligence, and AI-powered workflows are on the way.
 
-<br>
+`RPA` `Agents` `AI` `Automation`
 
----
-
-## ✦ GitHub Stats
-
-<br>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=meriemzorqany&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=e879f9&text_color=e9d5ff&ring_color=a855f7" />
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemzorqany&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e9d5ff&langs_count=6" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meriemzorqany&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=e879f9&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=f0abfc&sideNums=c084fc&dates=9ca3af" />
-
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
-## ✦ Soft Skills
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
 
-`🤝 Teamwork` &nbsp;&nbsp; `🗂 Organization` &nbsp;&nbsp; `🔄 Adaptability` &nbsp;&nbsp; `💡 Creativity`
+<img src="https://github-readme-stats.vercel.app/api?username=meriemzorqany&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=C084FC&icon_color=E879F9&text_color=E2D9F3" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriemzorqany&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D001A&title_color=C084FC&text_color=E2D9F3" height="165" alt="Top Languages" />
 
 </div>
 
-<br>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=meriemzorqany&theme=midnight-purple&hide_border=true&background=0D001A&ring=C084FC&fire=E879F9&currStreakLabel=C084FC" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## ✦ Let's Connect
+## 💡 Soft Skills
 
-<br>
+| | | | |
+|:---:|:---:|:---:|:---:|
+| 🤝 Teamwork | 🔄 Adaptability | 🗂️ Organization | 🎨 Creativity |
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriem%20Zorqany-c084fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0533)](https://www.linkedin.com/in/meriem-zorqany)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-zorqanymeriem@gmail.com-e879f9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0533)](mailto:zorqanymeriem@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meriem%20Zorqany-C084FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meriem-zorqany)
+[![Email](https://img.shields.io/badge/Email-zorqanymeriem@gmail.com-E879F9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zorqanymeriem@gmail.com)
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f0abfc,40:c084fc,70:2d1b69,100:1a0533&height=120&section=footer&fontSize=14&fontColor=fdf4ff&animation=fadeIn" />
+*"Automation is not about replacing humans — it's about freeing them to do more human things."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=meriemzorqany.meriemzorqany&color=C084FC)
 
 </div>
