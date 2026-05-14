@@ -1,188 +1,330 @@
-<!-- ========================================================= -->
-<!--            ULTRA MODERN AI / DATA ENGINEER README        -->
-<!--                  MERIEM ZORQANY                          -->
-<!-- ========================================================= -->
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MERIEM%20ZORQANY&fontAlign=50&fontAlignY=38&fontSize=62&desc=AI%20•%20MACHINE%20LEARNING%20•%20RPA%20•%20AUTOMATION&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,25:312e81,50:7c3aed,75:06b6d4,100:ec4899"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=SOUMIA%20NIDIKIN&fontAlign=50&fontAlignY=38&fontSize=62&desc=AI%20•%20AUTONOMOUS%20SYSTEMS%20•%20RPA%20•%20DATA%20ENGINEERING&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,25:312e81,50:7c3aed,75:06b6d4,100:ec4899"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;RPA+%26+Automation+Specialist;Deep+Learning+Explorer;Building+Intelligent+Systems+%26+Autonomous+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=Data+Engineering+%7C+AI+Automation+%7C+RPA;Designing+Intelligent+Systems;Building+Autonomous+Solutions;Transforming+Processes+Through+AI"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RPA%20Developer-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation%20Specialist-22D3EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineer-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPA%20Engineer-06B6D4?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-EC4899?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autonomous%20Agents-22D3EE?style=for-the-badge&logo=icloud&logoColor=black"/>
 
 </div>
 
 ---
-
-# ✨ ABOUT ME
 
 <div align="center">
 
-<img align="right" width="350" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
+# ✨ DIGITAL INTELLIGENCE ENGINEER ✨
+
+### *Creating intelligent ecosystems where automation, AI and data converge.*
 
 </div>
 
-### 👩‍💻 MERIEM ZORQANY
-
-🎓 Ingénieure informatique spécialisée en intelligence artificielle  
-🤖 Passionnée par le Machine Learning, Deep Learning et RPA  
-⚙️ Axée sur l’automatisation intelligente des processus  
-📊 Intérêt fort pour les systèmes data-driven et IA appliquée  
-
 ---
 
-### 🎯 Mission
-Transformer les processus manuels en systèmes intelligents et autonomes grâce à l’IA et à l’automatisation.
+# <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="32"> ABOUT ME
 
----
+<img align="right" width="360" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+```yaml
+name: Meriem Zorqany
+
+role:
+  - Data Engineering Engineer
+  - RPA Engineer
+  - AI & Autonomous Agents Enthusiast
+
+mission:
+  Transforming manual workflows into
+  intelligent autonomous systems
+  capable of optimizing operational performance.
+
+focus:
+  - Intelligent Automation
+  - AI Systems
+  - Autonomous Agents
+  - Data Engineering
+  - Enterprise Innovation
+
+mindset:
+  "Build systems that think, automate and evolve."
+```
 
 <br clear="right"/>
 
-# 🧠 EXPERTISE
-
-- 🤖 Intelligent Automation (RPA, Power Automate, UiPath)
-- 🧠 Machine Learning & Deep Learning
-- 🔍 NLP & AI Chatbots
-- 📊 Data Engineering & ETL
-- ⚙️ Process Optimization
-- 🧬 Neural Networks (CNN)
-- 📈 Business Intelligence (Power BI)
-
 ---
 
-# 🛠 TECH STACK
-
-## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
----
-
-## ⚙️ Frameworks & AI
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-
----
-
-## 🤖 RPA & Automation
-- UiPath  
-- Automation Anywhere  
-- Power Automate  
-
----
-
-## 📊 Data & BI
-- Power BI  
-- DAX  
-- Excel  
-- Pandas / Seaborn / Matplotlib  
-
----
-
-## 🗄 Databases
-- MySQL  
-- Oracle  
-- PL/SQL  
-- PhpMyAdmin  
-
----
-
-## 📡 Big Data
-- Hadoop  
-- Apache Flink  
-- Apache Pig  
-
----
-
-# 🚀 PROJECTS
-
-### 🏠 Prediction of Real Estate Prices
-Machine learning model using Linear Regression & Random Forest to predict housing prices.
-
-**Tech:** Python, Scikit-learn, Pandas, Seaborn
-
----
-
-### 🤖 Emergency Chatbot
-AI chatbot for emergency case handling with NLP and Flask backend.
-
-**Tech:** Python, Flask, NLP, PyTorch, Keras
-
----
-
-### 🔢 CNN Digit Recognition (MNIST)
-Deep Learning model for handwritten digit classification.
-
-**Tech:** TensorFlow, Keras, OpenCV
-
----
-
-# 📈 GITHUB STATS
+# <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="32"> EXPERTISE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meriem-zorqany&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meriem-zorqany&theme=tokyonight"/>
+<table>
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriem-zorqany&layout=compact&theme=tokyonight"/>
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="65"/>
+
+## Intelligent Automation
+
+Smart workflows  
+Process optimization  
+RPA ecosystems  
+Operational efficiency
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4616/4616734.png" width="65"/>
+
+## AI & Autonomous Agents
+
+LLMs  
+NLP  
+Agentic Systems  
+AI Automation
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="65"/>
+
+## Data Engineering
+
+ETL Pipelines  
+SQL Engineering  
+Warehousing  
+Data Architecture
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🎯 CURRENT FOCUS
-
-- AI Agents & Autonomous Systems  
-- Intelligent RPA Workflows  
-- Deep Learning Optimization  
-- Real-world AI Deployment  
-
----
-
-# 📬 CONNECT WITH ME
+# <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="32"> TECH ECOSYSTEM
 
 <div align="center">
 
-<a href="mailto:zorqanymeriem@outlook.com">
-<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+## ⚡ LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PLSQL-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge"/>
+
+---
+
+## 🤖 AUTOMATION & RPA
+
+<img src="https://img.shields.io/badge/Robot_Framework-111827?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_Automate-742774?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+---
+
+## 🧠 AI • MACHINE LEARNING • LLMs
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-22D3EE?style=for-the-badge"/>
+
+---
+
+## 📊 DATA & BI
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+---
+
+## ⚙️ DEVOPS & SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=docker,linux,windows&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UML-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-06B6D4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🤖 INTELLIGENT AUTOMATION ARCHITECTURE
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Manual Tasks] --> B[Intelligent Automation]
+B --> C[RPA Systems]
+C --> D[AI Decision Layer]
+D --> E[Autonomous Agents]
+E --> F[Optimized Enterprise]
+
+style A fill:#111827,color:#fff
+style B fill:#8B5CF6,color:#fff
+style C fill:#06B6D4,color:#fff
+style D fill:#EC4899,color:#fff
+style E fill:#22D3EE,color:#000
+style F fill:#312E81,color:#fff
+```
+
+</div>
+
+---
+
+# 🌌 CURRENT VISION
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### ⚡ Automation
+
+Designing scalable intelligent workflows
+
+</td>
+
+<td align="center">
+
+### 🧠 AI Systems
+
+Building autonomous AI-driven ecosystems
+
+</td>
+
+<td align="center">
+
+### 📊 Data Engineering
+
+Creating reliable and scalable data infrastructures
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🚀 FEATURED DOMAINS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+# 🤖 AI AGENTS
+
+Autonomous systems capable of orchestrating tasks, optimizing workflows and enhancing operational intelligence.
+
+</td>
+
+<td width="50%">
+
+# ⚡ INTELLIGENT RPA
+
+Advanced automation systems integrating AI decision-making and enterprise optimization.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+# 📊 DATA PIPELINES
+
+Scalable ETL architectures and modern data engineering ecosystems.
+
+</td>
+
+<td width="50%">
+
+# 🌐 BUSINESS INTELLIGENCE
+
+Interactive dashboards and analytical systems for data-driven decision making.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="mailto:zorqanymeriem@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/meriem-zorqany/">
-<img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="[https://www.linkedin.com/in/meriem-zorqany-a6279b213/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 QUOTE
+# 💡 PHILOSOPHY
 
 <div align="center">
 
-> “Artificial Intelligence is not about replacing humans, but empowering them with intelligent systems.”
+### *“The future belongs to intelligent systems capable of learning, adapting and evolving autonomously.”*
 
 </div>
 
 ---
 
-# 🌌 FOOTER
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=AI%20•%20DATA%20•%20AUTOMATION&fontSize=30&fontColor=ffffff&color=0:0f172a,50:7c3aed,100:06b6d4"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=AI%20•%20AUTOMATION%20•%20DATA&fontSize=36&fontColor=ffffff&animation=fadeIn&color=0:0f172a,25:312e81,50:7c3aed,75:06b6d4,100:ec4899"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=20&duration=4000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Engineering+Intelligent+Digital+Ecosystems;AI+•+Automation+•+Innovation;Building+The+Future+Of+Autonomous+Systems"/>
 
 </div>
