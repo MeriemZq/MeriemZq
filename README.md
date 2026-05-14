@@ -1,149 +1,188 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=280&section=header&text=Meriem%20Zorqany&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- ========================================================= -->
+<!--            ULTRA MODERN AI / DATA ENGINEER README        -->
+<!--                  MERIEM ZORQANY                          -->
+<!-- ========================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;RPA+%26+Automation+Specialist;Data+Engineering+Explorer" />
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MERIEM%20ZORQANY&fontAlign=50&fontAlignY=38&fontSize=62&desc=AI%20•%20MACHINE%20LEARNING%20•%20RPA%20•%20AUTOMATION&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0f172a,25:312e81,50:7c3aed,75:06b6d4,100:ec4899"/>
 
-## 👩‍💻 About Me
+<br>
 
-🎓 Ingénieure informatique passionnée par l’intelligence artificielle, le machine learning, le deep learning et l’automatisation intelligente des processus (RPA).  
-🚀 Je transforme les processus métiers en systèmes intelligents, automatisés et orientés data.  
-🧠 Passion pour les modèles IA, les agents intelligents et les solutions d’optimisation des workflows.
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Machine+Learning+Enthusiast;RPA+%26+Automation+Specialist;Deep+Learning+Explorer;Building+Intelligent+Systems+%26+Autonomous+Solutions"/>
 
----
+<br><br>
 
-## 🧠 Expertise
+<img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RPA%20Developer-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation%20Specialist-22D3EE?style=for-the-badge"/>
 
-- Artificial Intelligence & Machine Learning  
-- Deep Learning & Neural Networks (CNN)  
-- RPA & Intelligent Automation  
-- Data Engineering & Pipelines  
-- NLP & Text Processing  
-- Business Process Optimization  
-- Predictive Modeling  
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# ✨ ABOUT ME
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<div align="center">
 
-### 🤖 AI / ML
-TensorFlow • Keras • PyTorch • Scikit-learn • Pandas • Seaborn • NumPy
+<img align="right" width="350" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif"/>
 
-### ⚙️ RPA & Automation
-UiPath • Automation Anywhere • Power Automate
+</div>
 
-### 🧱 Big Data
-Hadoop • Apache Flink • Apache Pig
+### 👩‍💻 MERIEM ZORQANY
 
-### 🗄 Databases
-MySQL • Oracle • PL/SQL • PhpMyAdmin
+🎓 Ingénieure informatique spécialisée en intelligence artificielle  
+🤖 Passionnée par le Machine Learning, Deep Learning et RPA  
+⚙️ Axée sur l’automatisation intelligente des processus  
+📊 Intérêt fort pour les systèmes data-driven et IA appliquée  
 
-### 📊 BI Tools
-Power BI • DAX • Excel
+---
+
+### 🎯 Mission
+Transformer les processus manuels en systèmes intelligents et autonomes grâce à l’IA et à l’automatisation.
+
+---
+
+<br clear="right"/>
+
+# 🧠 EXPERTISE
+
+- 🤖 Intelligent Automation (RPA, Power Automate, UiPath)
+- 🧠 Machine Learning & Deep Learning
+- 🔍 NLP & AI Chatbots
+- 📊 Data Engineering & ETL
+- ⚙️ Process Optimization
+- 🧬 Neural Networks (CNN)
+- 📈 Business Intelligence (Power BI)
+
+---
+
+# 🛠 TECH STACK
+
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+---
+
+## ⚙️ Frameworks & AI
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 
 ---
 
 ## 🤖 RPA & Automation
-
-- Intelligent process automation  
-- Workflow optimization  
-- Business process digitalization  
-- Robotic process orchestration  
+- UiPath  
+- Automation Anywhere  
+- Power Automate  
 
 ---
 
-## 🧠 AI & Deep Learning
-
-- CNN for image classification (MNIST)
-- NLP chatbots for emergency systems
-- Regression & predictive models
-- Neural networks with TensorFlow & Keras
-
----
-
-## 📊 Data Engineering
-
-- ETL pipelines  
-- Data preprocessing & transformation  
-- Data modeling (UML, BPMN, Merise)  
-- Big data processing systems  
+## 📊 Data & BI
+- Power BI  
+- DAX  
+- Excel  
+- Pandas / Seaborn / Matplotlib  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏠 House Price Prediction
-Regression models (Linear Regression, Random Forest) to predict real estate prices using Scikit-learn.
-
-### 🤖 Emergency ChatBot
-AI-powered chatbot for emergency case handling using Flask, NLP, PyTorch & Keras.
-
-### 🔢 CNN MNIST Classifier
-Deep learning model for handwritten digit recognition using TensorFlow & CNN architecture.
+## 🗄 Databases
+- MySQL  
+- Oracle  
+- PL/SQL  
+- PhpMyAdmin  
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meriem-zorqany&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meriem-zorqany&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriem-zorqany&layout=compact&theme=tokyonight" />
-</p>
+## 📡 Big Data
+- Hadoop  
+- Apache Flink  
+- Apache Pig  
 
 ---
 
-## 🎯 Current Focus
+# 🚀 PROJECTS
+
+### 🏠 Prediction of Real Estate Prices
+Machine learning model using Linear Regression & Random Forest to predict housing prices.
+
+**Tech:** Python, Scikit-learn, Pandas, Seaborn
+
+---
+
+### 🤖 Emergency Chatbot
+AI chatbot for emergency case handling with NLP and Flask backend.
+
+**Tech:** Python, Flask, NLP, PyTorch, Keras
+
+---
+
+### 🔢 CNN Digit Recognition (MNIST)
+Deep Learning model for handwritten digit classification.
+
+**Tech:** TensorFlow, Keras, OpenCV
+
+---
+
+# 📈 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meriem-zorqany&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meriem-zorqany&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meriem-zorqany&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT FOCUS
 
 - AI Agents & Autonomous Systems  
 - Intelligent RPA Workflows  
-- LLM & NLP Exploration  
+- Deep Learning Optimization  
 - Real-world AI Deployment  
 
 ---
 
-## 📬 Connect With Me
+# 📬 CONNECT WITH ME
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<div align="center">
 
 <a href="mailto:zorqanymeriem@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/meriem-zorqany/">
+<img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 💡 Quote
+# 💡 QUOTE
 
-> “Artificial Intelligence is not about replacing humans, but amplifying human intelligence.”
+<div align="center">
+
+> “Artificial Intelligence is not about replacing humans, but empowering them with intelligent systems.”
+
+</div>
 
 ---
 
-## 🌌 Footer
+# 🌌 FOOTER
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=AI%20•%20DATA%20•%20AUTOMATION&fontSize=30&fontColor=ffffff&color=0:0f172a,50:7c3aed,100:06b6d4"/>
+
+</div>
