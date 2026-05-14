@@ -105,11 +105,12 @@
 ## 📈 My Coding Journey ✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeriemZq&show_icons=true&theme=rose_pine" alt="Meriem's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=buefy&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" alt="Meriem's GitHub Stats" />
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeriemZq&layout=compact&theme=rose_pine" alt="Meriem's Top Languages" />
+  
+  <img src="https://capsule-render.vercel.app/type=waving&color=ffb6c1&height=120&section=footer&text=Automating%20The%20Future%20✨&fontSize=20&fontColor=ffffff" width="100%" alt="Footer Wave" />
 </p>
-
 ---
 
 ## 🎀 Let's Stay Connected! 💕
