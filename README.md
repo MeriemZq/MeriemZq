@@ -3,7 +3,9 @@
   
   <h1>🌸 Coucou! I'm Meriem ZORQANY 🎀</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=RPA+%26+AI+AUTOMATION+ENGINEER;Passionate+about+AI+%26+ML+✨;Turning+Coffee+into+Smart+Code+💻" alt="Typing Effect" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=RPA+and+AI+AUTOMATION+ENGINEER;Passionate+about+AI+and+ML;Building+smart+autonomous+systems" alt="Typing Effect" />
+  </p>
 </div>
 
 <p align="center">
