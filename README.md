@@ -1,67 +1,117 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5NzZ5Z3A0d3V5M290Ynd0Z3F6M3V2bXN6Nm93bWNnd3Z0bWZ6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px" alt="Cute Coding Girl GIF" />
   
-  <h1>👋 Hi, I'm Meriem ZORQANY!</h1>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=550&lines=RPA+%26+AI+AUTOMATION+ENGINEER;Data+%26+Machine+Learning+Passionate;Turning+Coffee+Into+Automated+Code+☕" alt="Typing Effect" />
+  <h1>🌸 Coucou! I'm Meriem ZORQANY 🎀</h1>
 
-  <br/>
-
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260px" alt="Coding Girl animation" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=RPA+%26+AI+AUTOMATION+ENGINEER;Passionate+about+AI+%26+ML+✨;Turning+Coffee+into+Smart+Code+💻" alt="Typing Effect" />
 </div>
 
----
-
-### ✨ About Me
-
-🧠 I am a highly motivated **RPA and AI Automation Engineer** who loves diving deep into Artificial Intelligence, crafting advanced Machine Learning pipelines, and optimizing workflow architectures. I love making software work smarter, faster, and completely hands-free!
-
-* 🚀 **My Goal:** Building seamless connections between data science models and enterprise automation.
-* 👩‍💻 **What I Do:** Design intelligent bots, train neural nets, and structure robust database backends.
-* ⚡ **Fun Fact:** "If it takes more than 3 steps, automate it."
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeriemZq&label=PROFILE+VIEWS+%F0%9F%92%95&color=ffb6c1&style=flat-square" alt="Views" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+## 🔮 About Me ✨
 
-#### 🤖 Machine Learning & Deep Learning
-* **Frameworks & Libs:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-* **Core Competencies:** Regression, Classification, CNN (Convolutional Neural Networks)
-
-#### ⚙️ RPA & Automation
-* **Platforms:** ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-008080?style=flat-square&logo=microsoft-power-automate&logoColor=white) ![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-00A3E0?style=flat-square&logo=automation-anywhere&logoColor=white)
-
-#### 💻 Programming Languages
-* **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-007672?style=flat-square&logo=mathworks&logoColor=white) 
-* **Specialties:** Java/JEE development.
-
-#### 📊 Data Analysis & Visualization
-* **Tools:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-* **Skillsets:** Advanced DAX processing.
-
-#### 🗄️ Databases & Backend
-* **Engines:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-* **Languages:** SQL, PL/SQL
-
-#### 📐 System Design & Modeling
-* **Methodologies:** `UML` | `BPMN` | `Merise`
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>🧠 I'm a passionate <b>RPA and AI Automation Engineer</b> who loves building smart, autonomous systems and diving deep into Machine Learning architectures.</p>
+      <p>🌱 Constantly exploring new horizons in CNNs, intelligent data pipelines, and workflow optimizations.</p>
+      <p>💞 <b>My Philosophy:</b> Why do it manually when you can automate it beautifully with Python and AI?</p>
+      <p>🎯 <b>Current Focus:</b> Creating seamless integrations between deep learning models and enterprise RPA tools.</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bWR4b3p0NXA0cmJnbndnbTZ6cjZ4am55bGd3NDNndG54N3F5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="220px" alt="Aesthetic Coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 Profile Statistics
+## 🛠️ My Pastel Tech Toolkit 🌸
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeriemZq&count_private=true&show_icons=true&theme=radical&border_color=ff69b4&title_color=ff69b4" alt="Meriem's GitHub Stats" />
-</div>
+<details open>
+<summary><b>🧠 Machine Learning & Deep Learning</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF69B4?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FFB6C1?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-FFC0CB?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-FF69B4?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN_Models-FFB6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Regression_%26_Classification-FFC0CB?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ RPA & Automation</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/UiPath-FF69B4?style=flat-square&logo=uipath&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Automate-FFB6C1?style=flat-square&logo=microsoftpowerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Anywhere-FFC0CB?style=flat-square&logo=automationanywhere&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Programmation & Core Code</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_/_JEE-FFB6C1?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C_Language-FFC0CB?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FF69B4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FFB6C1?style=flat-square&logo=mathworks&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Analyse de Données</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-FF69B4?style=flat-square&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-FFB6C1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FF69B4?style=flat-square&logo=numpy&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Bases de Données</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-FFC0CB?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL_/_SQL-FF69B4?style=flat-square" />
+</p>
+</details>
+
+<details open>
+<summary><b>📐 Modélisation Processus</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/UML-FFC0CB?style=flat-square" />
+  <img src="https://img.shields.io/badge/BPMN-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Merise-FFB6C1?style=flat-square" />
+</p>
+</details>
 
 ---
 
-### 🤝 Connect With Me
+## 📈 My Coding Journey ✨
 
-Let's collaborate on AI-driven workflows, smart automations, or data modeling projects!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeriemZq&count_private=true&show_icons=true&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" alt="Meriem's GitHub Stats" />
+</p>
+
+---
+
+## 🎀 Let's Stay Connected! 💕
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/meriem-zorqany/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Meriem%20ZORQANY-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/meriem-zorqany" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
