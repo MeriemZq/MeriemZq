@@ -49,8 +49,8 @@
 ### 📈 Coding Metrics ✨
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MeriemZq&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MeriemZq&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffffff&bg_color=1c1b22&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MeriemZq&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeriemZq&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffffff&bg_color=1c1b22&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
