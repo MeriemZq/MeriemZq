@@ -51,28 +51,6 @@
 | **🗄️ Databases & Storage** | ![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-FFB6C1?style=flat-square&logo=oracle&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL/SQL-FFC0CB?style=flat-square) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-FF69B4?style=flat-square&logo=phpmyadmin&logoColor=white) |
 | **📐 Process Modeling** | ![UML](https://img.shields.io/badge/UML-FF69B4?style=flat-square) ![BPMN](https://img.shields.io/badge/BPMN-FFB6C1?style=flat-square) ![Merise](https://img.shields.io/badge/Merise-FFC0CB?style=flat-square) |
 
----
-
-## 📌 Featured Projects Showcase
-
-> *Pin or highlight key automation repos below so visitors immediately see your engineering work.*
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Intelligent RPA Document Processor</h3>
-      <p>An enterprise workflow combining <b>UiPath</b> and <b>Python-based OCR/NLP</b> models to extract, validate, and route complex invoice data into ERP databases automatically.</p>
-      <p><code>UiPath</code> • <code>Python</code> • <code>SQL</code> • <code>OCR</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Autonomous n8n AI Agent Workflow</h3>
-      <p>An end-to-end automation pipeline built on <b>n8n</b> that connects real-time API webhooks with machine learning classification endpoints to automate lead scoring and CRM updates.</p>
-      <p><code>n8n</code> • <code>Python</code> • <code>REST API</code> • <code>Scikit-Learn</code></p>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 Activity & Stats
 
