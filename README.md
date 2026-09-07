@@ -49,10 +49,8 @@
 ### 📈 Coding Metrics ✨
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeriemZq&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ffb6c1&text_color=ffffff&bg_color=1c1b22&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeriemZq&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffffff&bg_color=1c1b22&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeriemZq&theme=rose_pine&background=1C1B22&stroke=FF69B4&ring=FF69B4&fire=FFB6C1&currStreakLabel=FFB6C1" height="150" alt="GitHub Streak" />
 </div>
-
 ---
 
 ### 🎀 Connect With Me 💕
